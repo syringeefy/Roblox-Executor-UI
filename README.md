@@ -16,7 +16,7 @@ Open your terminal or command prompt.
 
 Run the following command:
 
-git clone https://github.com/syringeefy/roblox-exploit-dev-helper.git
+git clone https://github.com/syringeefy/Roblox-Executor-UI.git
 
 Navigate into the project directory:
 
