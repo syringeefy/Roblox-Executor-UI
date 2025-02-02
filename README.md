@@ -64,8 +64,7 @@ We highly encourage you to share your thoughts to help make this project better 
 
 This project was created and maintained by syringeefy (syringee). Special thanks to:
 
-🎖 Contributors – Everyone who has contributed to the project.
-
+🎖 Contributors – Syringee
 🛠 Community – The Roblox exploit development community for their support and feedback.
 
 If you'd like to support the project, feel free to star ⭐ the repository or contribute!
