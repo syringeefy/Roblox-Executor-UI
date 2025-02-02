@@ -1,62 +1,56 @@
-# Roblox Exploit Development Helper
+Roblox Exploit UI -- here the meaning for exploit is "bugs and glitches" and everything shared here is said to be for educational purposes
 
-**Created by:** syringeefy (syringee)  
-**Discord User ID:** 1307584204619386913  
+Created by: syringeefy (syringee)Discord User ID: 1307584204619386913
 
----
+📜 Project Overview
 
-## 📜 Project Overview
+The Roblox Exploit Development Helper is designed to assist individuals in getting started with Roblox exploit development. The initial release is intentionally kept clean and beginner-friendly to provide a solid foundation. The project will evolve based on user feedback and contributions, ensuring it remains relevant and useful for the community.
 
-This project is designed to assist individuals who are getting started with Roblox exploit development. The initial release is intentionally kept basic and clean to provide a solid foundation for beginners. The project will evolve based on user feedback and contributions, ensuring it remains relevant and helpful for the community.
+🛠 Installation Guide
 
----
+Follow these steps to set up the project on your local machine.Ensure you have Visual Studio installed before proceeding.
 
-## 🛠 Installation Guide
+Step 1: Clone the Repository
 
-The installation process is simple and straightforward. Follow these steps to set up the project on your local machine.
+Open your terminal or command prompt.
 
-Use, Visual Studio to configure the source.
+Run the following command:
 
+git clone https://github.com/syringeefy/roblox-exploit-dev-helper.git
 
-### Step 1: Clone the Repository
+Navigate into the project directory:
 
-1. Open your terminal or command prompt.
-2. Run the following command to clone the repository:
+cd roblox-exploit-dev-helper
 
-   ```bash
-   git clone https://github.com/syringeefy/roblox-exploit-dev-helper.git
+Step 2: Restore NuGet Packages
 
-3. Navigate into the project directory:
+Run the following command to restore dependencies:
 
-```bash
-cd roblox-exploit-dev-helper```
-
-### Step 2: Restore Nuget Packages
-
-```bash
-dotnet restore```
+dotnet restore
 
 🚀 Usage
-Once the project is set up, you can start using it to assist with Roblox exploit development. The initial release is basic, so feel free to explore the code and make modifications as needed.
+
+Once the project is set up, you can start using it to assist with Roblox exploit development.Since this is a basic initial release, feel free to explore the code and make modifications as needed.
 
 Key Features
-Basic Exploit Templates: Pre-built templates to help you get started with exploit development.
 
-Code Examples: Examples of common exploit techniques and how to implement them.
-
-Community Feedback: The project is designed to evolve based on user feedback, so don't hesitate to share your thoughts and suggestions.
+✔ Pre-built Exploit Templates – Templates to help you start with exploit development.✔ Code Examples – Includes examples of common exploit techniques and how to implement them.✔ Community Feedback – The project evolves based on user feedback, ensuring continuous improvement.
 
 🤝 Contributing
-We welcome contributions from the community! If you have ideas for improvements or new features, please follow these steps:
 
-Fork the Repository: Create a fork of the project on GitHub.
+We welcome contributions from the community! If you have ideas for improvements or new features, follow these steps:
 
-Create a Branch: Make your changes in a new branch.
+Fork the Repository – Create a fork of the project on GitHub.
 
-Submit a Pull Request: Once your changes are ready, submit a pull request with a detailed description of your modifications.
+Create a New Branch – Implement your changes in a new branch.
+
+Submit a Pull Request – Once your changes are ready, submit a pull request with a detailed description.
 
 💡 Suggestions and Feedback
-Your feedback is invaluable! If you have suggestions for improving the project, you can submit them through the "Suggestions" button in the application interface. Here's how it works:
+
+Your feedback is invaluable! If you have suggestions for improving the project, you can submit them through the "Suggestions" button in the application interface.
+
+How to Submit Feedback:
 
 Click the "Suggestions" button in the app.
 
@@ -67,10 +61,11 @@ Submit the form, and your feedback will be sent directly to the developer for re
 We highly encourage you to share your thoughts to help make this project better for everyone!
 
 📧 Credits
-This project was created and maintained by syringeefy (syringee). Special thanks to the following:
 
-Contributors: Everyone who has contributed to the project.
+This project was created and maintained by syringeefy (syringee). Special thanks to:
 
-Community: The Roblox exploit development community for their support and feedback.
+🎖 Contributors – Everyone who has contributed to the project.
 
-If you'd like to support the project, feel free to star the repository or contribute!
+🛠 Community – The Roblox exploit development community for their support and feedback.
+
+If you'd like to support the project, feel free to star ⭐ the repository or contribute!
